@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_add_recipe.xml" value="0.33" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_chicken.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_desserts.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_drinks.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_first.xml" value="0.375" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_food.xml" value="0.25" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_pasta.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_recipe.xml" value="0.2695035460992908" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_registration.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_soup.xml" value="0.25" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_steak.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_stew.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/activity_vegan.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/fragment_soup.xml" value="0.15" />
+        <entry key="..\:/Users/Iancu/Desktop/Android Project/app/src/main/res/layout/viewpager_item.xml" value="0.1574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
